@@ -37,7 +37,7 @@ p {
 }
 
 a {
-	color: #0e0bd4;
+	color: #00837f;
 	text-decoration: none;
 }
 
@@ -90,18 +90,18 @@ td {
 
 .mylinks {
 	float: left;
-	margin-left: 5%;
-	width: 20%;
+	margin-left: 4%;
+	width: 17%;
     text-align: center;
     /* padding-top: 5em; */
 }
 
 .main-content {
 	float: left;
-	margin-left: 5%;
-	width: 65%;
+	margin-left: 4%;
+	width: 50%;
     text-align: left;
-	padding-right: 5%;
+	padding-right: 25%;
     padding-bottom: 5em;
 }
 
@@ -124,3 +124,10 @@ td {
 	float: right;
     text-align: right;
 }
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+  }
