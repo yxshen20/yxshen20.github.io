@@ -91,7 +91,7 @@ td {
 .mylinks {
 	float: left;
 	margin-left: 4%;
-	width: 17%;
+	width: 19%;
     text-align: center;
     /* padding-top: 5em; */
 }
@@ -99,9 +99,9 @@ td {
 .main-content {
 	float: left;
 	margin-left: 4%;
-	width: 50%;
+	width: 46%;
     text-align: left;
-	padding-right: 25%;
+	padding-right: 27%;
     padding-bottom: 5em;
 }
 
